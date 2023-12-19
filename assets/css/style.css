@@ -516,6 +516,7 @@ html {
     font-size: 10px;
     bottom: 40px;
     left: 40px;
+    text-shadow: 0 0 0.2em BLACK, 0 0 0.2em BLACK, 0 0 0.2em BLACK, 0 0 0.2em BLACK, 0 0 0.2em BLACK, 0 0 0.2em BLACK, 0 0 0.2em BLACK, 0 0 0.2em BLACK, 0 0 0.2em BLACK;
   }
   .main_contents .copyright span {
     padding-left: 2em;
